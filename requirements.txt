@@ -1,0 +1,6 @@
+fastapi==0.89.0
+fastapi-cache2==0.1.9
+python-multipart==0.0.5
+starlette==0.22.0
+uvicorn==0.20.0
+yfinance==0.2.3
